@@ -20,14 +20,14 @@ html,body{
 	font-style: oblique;
 }
 h1{
-	font-size: 0.9em;
+	font-size: 0.6em;
 }
 
 #logo{
 	width: 80px;
 	position: absolute;
 	top: 40px;
-	right: 1250px;
+	right: 1930px;
 }
 .container{
 	border:2px #7d0434 solid;
@@ -140,7 +140,7 @@ body {
 
 .navbar {
   overflow: hidden;
-  background-color: #333; 
+  background-color: #700047; 
 }
 
 .navbar a {
@@ -183,12 +183,12 @@ body {
 
 .subnav-content a {
   float: left;
-  color: white;
+  color: #f6e6bc;
   text-decoration: none;
 }
 
 .subnav-content a:hover {
-  background-color: #eee;
+  background-color: #f4e1ae;
   color: black;
 }
 
@@ -210,7 +210,11 @@ body {
   position: absolute;
   right: 5px;
 }
-
+h3{
+  color: #46012d;
+  font-family: 'Times New Roman', Times, serif;
+}
 h4{
   color: #700047;
+  font-family: fantasy;
 }
