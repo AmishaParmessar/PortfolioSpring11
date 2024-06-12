@@ -212,9 +212,13 @@ body {
 }
 h3{
   color: #46012d;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h4{
-  color: #700047;
+  color: #46012d;
+  font-family: fantasy;
+}
+h5{
+  color: #46012d;
   font-family: fantasy;
 }
